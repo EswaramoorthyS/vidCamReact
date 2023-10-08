@@ -11,7 +11,7 @@ const Home = () => {
         <Webcam
             onClick={tocuh}
             audio={false}
-            height={'10%'}
+            height={'100%'}
             screenshotFormat="image/jpeg"
             width={'100%'}
         >
